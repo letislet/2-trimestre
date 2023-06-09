@@ -1,1 +1,14 @@
+@import url("style/header.css");
 
+:root {
+  --cord-de-fundo: #EBECEE;
+  --branco: #FFFFFF
+}
+
+body{
+  backround-color: van(--cor-de-fundo);
+}
+
+h1 {
+  backround-color: white;
+}
